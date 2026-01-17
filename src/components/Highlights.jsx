@@ -27,7 +27,7 @@ function Higlights() {
                 <div className="bg-gray-900 rounded-3xl p-12 mb-16">
                     <h3 className="font-bold mb-6 text-gradient text-4xl">A18 Pro</h3>
                     <p className="text-gray-300 mb-6">O chip mais rápido da história do iPhone.</p>
-                    <img className="w-full rounded-2xl mb-4" src="../../public/img/chip-a18-pro.jpg" alt="" />
+                    <img className="w-full rounded-2xl mb-4" src="/img/chip-a18-pro.jpg" alt="" />
                     <ul className="space-y-3 text-gray-300">
                         <li>CPU 20% mais rapida</li>
                         <li>GPU 20% mais rapida</li>
